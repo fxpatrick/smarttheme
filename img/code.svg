@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="325.774 771.443 405.247 474.523">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffa511;
+      }
+
+      .cls-2 {
+        fill: #eb6b24;
+      }
+
+      .cls-3 {
+        fill: #9e2d00;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #e0904a;
+      }
+
+      .cls-6 {
+        fill: #bf6a3f;
+      }
+
+      .cls-7 {
+        fill: #ffd97d;
+      }
+
+      .cls-8 {
+        fill: #24170c;
+      }
+
+      .cls-9 {
+        fill: #3b2f25;
+      }
+
+      .cls-10 {
+        fill: #d6d6d6;
+      }
+
+      .cls-11 {
+        fill: #627687;
+      }
+
+      .cls-12 {
+        fill: #2e373d;
+      }
+
+      .cls-13 {
+        fill: #424d57;
+      }
+    </style>
+  </defs>
+  <g id="code" transform="translate(276.527 760)">
+    <path id="Path_39" data-name="Path 39" class="cls-1" d="M188.03,225.543l.01,103.693L365.416,430.41l89.078-51.566-.153-102.47L276.7,174.171Z"/>
+    <path id="Path_40" data-name="Path 40" class="cls-2" d="M188.03,225.543l177.23,102.2.156,102.664L188.04,329.236Z"/>
+    <path id="Path_41" data-name="Path 41" class="cls-3" d="M454.341,276.374,365.26,327.746l.156,102.664,89.078-51.566Z"/>
+    <path id="Path_42" data-name="Path 42" class="cls-4" d="M232.441,251.091,321.1,199.72l88.824,51.1-88.663,51.373Z"/>
+    <path id="Path_43" data-name="Path 43" class="cls-5" d="M286.9,186.616l.149,62.087,37.719,21.656-.145-61.559Z"/>
+    <path id="Path_44" data-name="Path 44" class="cls-6" d="M324.622,208.8l38.112-22.36-.348,62.085-37.619,21.834Z"/>
+    <path id="Path_45" data-name="Path 45" class="cls-7" d="M226.983,79.431l-.168,113.253,98,56.768,98.162-56.483.171-114.659-98-55.362Z"/>
+    <path id="Path_46" data-name="Path 46" class="cls-5" d="M324.978,136.2l-.165,113.253,98.162-56.483.171-114.659Z"/>
+    <path id="Path_47" data-name="Path 47" class="cls-8" d="M432.155,73.208,325.495,11.443,217.184,73.357l-.056,39.311s30.731,19.2,67.964.284c0,0,8.528,30.219,39.76,54.971l34.587-20.508c0,7.113-.043,82.178-.043,82.178l72.854-41.922Z"/>
+    <path id="Path_48" data-name="Path 48" class="cls-9" d="M217.184,73.357,324.978,136.2,432.155,73.208,325.495,11.443Z"/>
+    <path id="Path_49" data-name="Path 49" class="cls-10" d="M232.441,251.091l44.567,128.241,44.257-77.138Z"/>
+    <path id="Path_56" data-name="Path 56" class="cls-11" d="M73.3,426.77l83.282,48.082,48.976-28.273L121.746,398.8Z"/>
+    <path id="Path_57" data-name="Path 57" class="cls-12" d="M73.3,426.77v10.057l83.282,49.139V474.852Z"/>
+    <path id="Path_58" data-name="Path 58" class="cls-13" d="M156.579,485.966l48.976-29.59v-9.8l-48.976,28.273Z"/>
+    <path id="Path_59" data-name="Path 59" class="cls-12" d="M49.247,206.649V368.842L238.063,477.856v-162.2Z"/>
+    <path id="Path_60" data-name="Path 60" class="cls-11" d="M238.063,315.659l14.308-8.425L64.773,198.967l-15.526,7.682Z"/>
+    <path id="Path_61" data-name="Path 61" class="cls-13" d="M238.063,477.856l14.308-9.436V307.234l-14.308,8.425Z"/>
+    <path id="Path_62" data-name="Path 62" class="cls-12" d="M93.766,332.227v56.016l65.2,37.644V369.874Z"/>
+    <path id="Path_63" data-name="Path 63" class="cls-11" d="M158.971,369.874l7.934-4.367L102.114,328.1l-8.348,4.132Z"/>
+    <path id="Path_64" data-name="Path 64" class="cls-13" d="M158.971,425.887l7.934-4.37v-56.01l-7.934,4.367Z"/>
+    <path id="Path_65" data-name="Path 65" class="cls-12" d="M107.89,390.52v45.036L134,450.966V405.93Z"/>
+    <path id="Path_66" data-name="Path 66" class="cls-13" d="M134,450.966l10.848-6.408V400.467L134,405.93Z"/>
+    <path id="Path_67" data-name="Path 67" class="cls-11" d="M144.848,400.467l-27.24-15.726-9.718,5.779L134,405.93Z"/>
+    <g id="Group_6" data-name="Group 6">
+      <path id="Path_69" data-name="Path 69" class="cls-4" d="M143.992,35.773,56.279,87.911v6.964l87.713-51.857Z"/>
+      <path id="Path_70" data-name="Path 70" class="cls-4" d="M143.992,57.835,56.279,109.974v6.964L143.992,65.08Z"/>
+      <path id="Path_71" data-name="Path 71" class="cls-4" d="M145.886,78.105,58.172,130.244v6.963l87.714-51.858Z"/>
+    </g>
+  </g>
+</svg>
